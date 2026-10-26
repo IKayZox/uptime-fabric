@@ -1,0 +1,9 @@
+INFO Application started
+INFO Database connected
+ERROR Connection timeout
+WARNING Disk usage 82%
+INFO Request received
+ERROR Database connection refused
+INFO Retrying connection
+ERROR Connection timeout
+INFO Service restored

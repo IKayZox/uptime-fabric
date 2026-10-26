@@ -1,0 +1,19 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Application logs
+*.log
+
+# Allow sanitized sample logs
+!samples/*.log
+
+# Local development files
+.idea/
+.vscode/
